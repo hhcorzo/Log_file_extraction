@@ -1,0 +1,59 @@
+{"ovgf": {"y": "45", "x": "3", "k": "pol", "t": "R"}, "Multy": {"y": 0, "x": 5, "k": "Multiplicity", "t": "I"}, "State": {"y": "0", "x": "1", "k": "State=", "t": "S"}, "Normal": {"y": "0", "x": "0", "k": "Normal termination", "t": "S"}, "Frequencies": {"y": 3, "x": 2, "k": "(AMU), force", "t": "R"}, "Molecule": {"y": 0, "x": 1, "k": "Stoichiometry", "t": "S"}, "Basisset": {"y": 0, "x": 2, "k": "basis:", "t": "S"}, "SymmFull": {"y": 0, "x": 3, "k": "Full point group", "t": "S"}, "Charge": {"y": 0, "x": 2, "k": "Charge =", "t": "I"}, "MP2": {"y": "0", "x": "1", "k": "MP2=", "t": "R"}, "PG": {"y": "0", "x": "1", "k": "PG=", "t": "S"},  "HF": {"y": "0", "x": "1", "k": "HF=", "t": "R"},
+"S2": {"y": "0", "x": "1", "k": "S2=", "t": "R"},"S2A": {"y": "0", "x": "1", "k": "S2=", "t": "R"},
+"SymmLA": {"y": 0, "x": 3, "k": "Largest Abelian subgroup", "t": "S"},
+"SymmLCA": {"y": 0, "x": 4, "k": "Largest concise Abelian subgroup", "t": "S"},
+"Geom": {"y": "0", "x": "1", "k": "Optimization completed.", "t": "S"},
+"GeomRF": {"y": "0", "x": "1", "k": "Redundant internal", "t": "S"},
+
+"ZPC": {"y": 0, "x": 2, "k": "Zero-point correction=", "t": "R"},
+"TCE": {"y": 0, "x": 4, "k": "Thermal correction to Energy=", "t": "R"},
+"TCH": {"y": 0, "x": 4, "k": "Thermal correction to Enthalpy=", "t": "R"},
+"TCG": {"y": 0, "x": 6, "k": "Thermal correction to Gibbs Free Energy=", "t": "R"},
+"SEZPC": {"y": 0, "x": 6, "k": "Sum of electronic and zero-point Energies=", "t": "R"},
+"SETCE": {"y": 0, "x": 6, "k": "Sum of electronic and thermal Energies= ", "t": "R"},
+"SETCH": {"y": 0, "x": 6, "k": "Sum of electronic and thermal Enthalpies=", "t": "R"},
+"SETCG": {"y": 0, "x": 7, "k": "Sum of electronic and thermal Free Energies=", "t": "R"},
+"TotE": {"y": 0, "x": 1, "k": "NoneCtr-TE", "t": "R"},
+"TotCV": {"y": 0, "x": 1, "k": "NoneCtr-CV", "t": "R"},
+"TotS": {"y": 0, "x": 1, "k": "NoneCtr-S", "t": "R"},
+
+
+
+
+"MxForce": {"y": 0, "x": 4, "k": "Maximum Force", "t": "S"},
+"MDisp": {"y": 0, "x": 4, "k": "Maximum Displacement", "t": "S"},
+"RMSForce": {"y": 0, "x": 4, "k": "RMS     Force", "t": "S"},
+"RMSDisp": {"y": 0, "x": 4, "k": "RMS     Displacement", "t": "S"},
+
+
+"Elapsed time":{ "Min": {"y": 0, "x": 6, "k": "Elapsed", "t": "I"},"Sec": {"y":0, "x":8, "k": "Elapsed", "t": "R"}, "Days": {"y": 0, "x": 2, "k": "Elapsed", "t": "I"}, "Hrs": {"y": 0, "x": 4, "k": "Elapsed", "t": "I"}},
+
+
+"Job cpu time":{"Days": {"y": 0, "x": 3, "k": "Job cpu", "t": "I"}, "Sec": {"y": 0, "x":9, "k": "Job cpu", "t": "R"}, "Hrs": {"y": 0, "x": 5, "k": "Job cpu", "t": "I"}, "Min": {"y": 0, "x": 7, "k": "Job cpu", "t": "I"}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
